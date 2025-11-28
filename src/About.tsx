@@ -68,7 +68,7 @@ const About = () => {
               <CardContent className="pt-8">
                 <h3 className="text-2xl font-serif font-bold mb-4 text-primary">Our Vision</h3>
                 <p className="text-muted-foreground">
-                  To be the most trusted and sought-after salon in the region, known for our artistry, professionalism, and dedication to client satisfaction. We aspire to set new standards in luxury hair care.
+                  To be the most trusted and sought-after salon in the region, known for our artistry, professionalism, and dedication to client satisfaction. We aspire to set new standards in our hair care.
                 </p>
               </CardContent>
             </Card>

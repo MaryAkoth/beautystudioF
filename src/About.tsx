@@ -60,7 +60,7 @@ const About = () => {
               <CardContent className="pt-8">
                 <h3 className="text-2xl font-serif font-bold mb-4 text-primary">Our Mission</h3>
                 <p className="text-muted-foreground">
-                  To provide exceptional hair care services that enhance natural beauty, boost confidence, and create lasting impressions. We're committed to using premium products and staying at the forefront of industry innovation.
+                  To provide exceptional hair and care services that enhance natural beauty, boost confidence, and create lasting impressions. We're committed to using premium products and staying at the forefront of industry innovation.
                 </p>
               </CardContent>
             </Card>

@@ -98,7 +98,7 @@ const About = () => {
               <h3 className="text-2xl font-serif font-bold text-center mb-6">Opening Hours</h3>
               <div className="space-y-3">
                 <div className="flex justify-between items-center py-2 border-b border-border">
-                  <span className="font-medium">Mon - Friday</span>
+                  <span className="font-medium">Mon - Fri</span>
                   <span className="text-muted-foreground">9:00 AM - 6:00 PM</span>
                 </div>
                 <div className="flex justify-between items-center py-2 border-b border-border">

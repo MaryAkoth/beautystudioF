@@ -102,7 +102,7 @@ const About = () => {
                   <span className="text-muted-foreground">9:00 AM - 6:00 PM</span>
                 </div>
                 <div className="flex justify-between items-center py-2 border-b border-border">
-                  <span className="font-medium">Saturd</span>
+                  <span className="font-medium">Satur</span>
                   <span className="text-muted-foreground">10:00 AM - 5:00 PM</span>
                 </div>
                 <div className="flex justify-between items-center py-2">

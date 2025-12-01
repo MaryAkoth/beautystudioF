@@ -42,7 +42,7 @@ const About = () => {
                   Founded in 2021, the Salon began with a simple vision: to create a space where artistry and luxury come together to deliver an unparalleled hair styling experience.
                 </p>
                 <p>
-                  What started as a small boutique salon has grown into a premier destination for hair care, attracting clients who appreciate the finer details of professional styling.
+                  It What started as a small boutique salon has grown into a premier destination for hair care, attracting clients who appreciate the finer details of professional styling.
                 </p>
                 <p>
                   Our team of expert stylists brings together decades of combined experience, staying ahead of trends while mastering timeless techniques. We believe that every client deserves to feel confident and beautiful.

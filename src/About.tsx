@@ -48,7 +48,7 @@ const About = () => {
                   Our team of expert stylists brings together decades of combined experience, staying ahead of trends while mastering timeless techniques. We believe that every client deserves to feel confident and beautiful.
                 </p>
                 <p>
-                  At Sisters Salon, we don't just style hair – we create experiences, build strong relationships, and 
+                  At Sisters Salon, we don't just style hair – we create experiences, build strong relationships, and foster a community of beauty enthusiasts. Join us on this journey and discover the true meaning of luxury hair care.
                 </p>
               </div>
             </div>

@@ -22,7 +22,7 @@ const About = () => {
           <div className="text-center mb-16">
             <h1 className="text-5xl font-serif font-bold mb-6">About sisters Salon</h1>
             <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-              Where passion for beauty meets exceptional craftsmanship. We've been transforming looks and boosting confidence since our inception. Our dedicated team of professionals is committed to delivering personalized services that cater to your unique style and needs.
+              Where passion for beauty meets exceptional craftsmanship We've been transforming looks and boosting confidence since our inception. Our dedicated team of professionals is committed to delivering personalized services that cater to your unique style and needs.
             </p>
           </div>
 
@@ -39,13 +39,13 @@ const About = () => {
               <h2 className="text-3xl font-serif font-bold mb-6">Our Story</h2>
               <div className="space-y-4 text-muted-foreground">
                 <p>
-                  Founded in 2022, the Salon began with a simple vision: to create a space where artistry and luxury come together to deliver an unparalleled hair styling experience.
+                  Founded in 2022, the Salon began with a simple vision: to create a space where artistry and luxury come together to deliver an unparalleled hair styling experience
                 </p>
                 <p>
                   It What started as a small boutique salon has grown into a premier destination for hair care, attracting clients who appreciate the finer details of professional styling.
                 </p>
                 <p>
-                  Our team of expert stylists brings together decades of combined experience, staying ahead of trends while mastering timeless techniques. We believe that every client deserves  
+                  Our team of expert stylists brings together decades of combined experience, staying ahead of trends while mastering timeless techniques. We believe that every client deserves personalized attention and a look that reflects their individuality.
                 </p>
                 <p>
                   At Sisters Salon, we don't just style hair – we create experiences, build strong relationships and foster a community of beauty enthusiasts. Join us on this journey and discover the true meaning of luxury hair care.

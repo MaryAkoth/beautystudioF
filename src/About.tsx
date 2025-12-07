@@ -22,7 +22,7 @@ const About = () => {
           <div className="text-center mb-16">
             <h1 className="text-5xl font-serif font-bold mb-6">About sisters Salon</h1>
             <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-              Where passion for beauty meets exceptional craftsman We've been transforming looks and boosting confidence since our inception. Our dedicated team of professionals is committed to delivering personalized services that cater to your unique style and needs.
+              Where passion for beauty meets exceptional crafts We've been transforming looks and boosting confidence since our inception. Our dedicated team of professionals is committed to delivering personalized services that cater to your unique style and needs.
             </p>
           </div>
 

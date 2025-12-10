@@ -20,7 +20,7 @@ const About = () => {
         <div className="container mx-auto px-4">
           {/* Hero */}
           <div className="text-center mb-16">
-            <h1 className="text-5xl font-serif font-bold mb-6">About </h1>
+            <h1 className="text-5xl font-serif font-bold mb-6">About  </h1>
             <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
               Where passion for beauty meets exceptional target, We've been boosting confidence since our inception. Our dedicated team of professionals is committed to delivering personalized services that cater to your unique style and needs.
             </p>

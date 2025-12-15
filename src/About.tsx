@@ -39,7 +39,7 @@ const About = () => {
               <h2 className="text-3xl font-serif font-bold mb-6">Our success Story</h2>
               <div className="space-y-4 text-muted-foreground">
                 <p>
-                  Founded early2022,  began with a simple vision: to create a space where artistry and luxury come together to deliver an unparalleled hair styling experience
+                  Founded early 2022,  began with a simple vision: to create a space where artistry and luxury come together to deliver an unparalleled hair styling experience
                 </p>
                 <p>
                   It What started as a small boutique salon has grown into a premier destination for hair care, attracting clients who appreciate the finer details of professional styling.

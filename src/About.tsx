@@ -45,7 +45,7 @@ const About = () => {
                   It What started as a small boutique salon has grown into a premier destination for hair care, attracting clients who appreciate the finer details of professional styling.
                 </p>
                 <p>
-                  Our team of expert sty brings together decades of combined experience, staying ahead of trends while mastering timeless techniques. We believe that every client deserves personalized attention and a look that reflects their individuality.
+                  Our team of expert st brings together decades of combined experience, staying ahead of trends while mastering timeless techniques. We believe that every client deserves personalized attention and a look that reflects their individuality.
                 </p>
                 <p>
                   At Sisters Salon, we don't just style hair – we create experiences, build strong relationships and foster a community of beauty enthusiasts. Join us on this journey and discover the true meaning of luxury hair care.

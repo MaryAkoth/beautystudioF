@@ -76,7 +76,7 @@ const About = () => {
 
           {/* Values */}
           <div className="mb-20">
-            <h2 className="text-3xl font-serif font-bold text-center mb-12">Our dValues</h2>
+            <h2 className="text-3xl font-serif font-bold text-center mb-12">Our daValues</h2>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
               {values.map((value, index) => (
                 <Card key={index} className="border-none shadow-soft hover:shadow-medium smooth-transition">

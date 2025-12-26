@@ -95,7 +95,7 @@ const About = () => {
           {/* Hours */}
           <Card className="border-none shadow-soft max-w-2xl mx-auto">
             <CardContent className="pt-8">
-              <h3 className="text-2xl font-serif font-bold text-center mb-6">Opening H</h3>
+              <h3 className="text-2xl font-serif font-bold text-center mb-6">Opening </h3>
               <div className="space-y-3">
                 <div className="flex justify-between items-center py-2 border-b border-border">
                   <span className="font-medium">Mon - Fri</span>

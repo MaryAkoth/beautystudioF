@@ -58,7 +58,7 @@ const About = () => {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-20">
             <Card className="border-none shadow-soft">
               <CardContent className="pt-8">
-                <h3 className="text-2xl font-serif font-bold mb-4 text-primary">Our D Mission</h3>
+                <h3 className="text-2xl font-serif font-bold mb-4 text-primary">Our Da Mission</h3>
                 <p className="text-muted-foreground">
                   To provide exceptional hair and beauty care services that enhance natural beauty, boost confidence, and create lasting impressions. We're committed to using premium products and staying at the forefront of industry innovation.
                 </p>
